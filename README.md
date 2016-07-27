@@ -16,3 +16,15 @@ var b = [{id: 1},{id: 5},{id: 122},{id: 12121},{id: 4}]
 
 ```
 These tests have been accomplished in node and browser environment.
+
+As we have to loop thought 2 arrays, each method name comprises of 2 iterations
+For example forFor function is 2 simple for loops one inside another with length caching.
+8 functions:
+1. forFor
+2. whileFor
+3. whileWhile
+4. shiftFor
+5. forEach
+6. filterFor
+7. filterSome
+8. forInLoop
