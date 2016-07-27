@@ -33,12 +33,12 @@ For example forFor function is 2 simple for loops one inside another with length
 Results:
 
 * Node.js Mac
-* ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/node.png "Node.js")
+    ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/node.png "Node.js")
 * Chrome Mac
-* ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/chrome.png "Node.js")
+    ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/chrome.png "Node.js")
 * Firefox Mac
-* ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/firefox.png "Node.js")
+    ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/firefox.png "Node.js")
 * Opera Mac
-* ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/opera.png "Node.js")
+    ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/opera.png "Node.js")
 * SAfari Mac
-* ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/safari.png "Node.js")
+    ![Node](https://github.com/mikhailrojo/filterArrayChecks/blob/master/webtest/img/safari.png "Node.js")
